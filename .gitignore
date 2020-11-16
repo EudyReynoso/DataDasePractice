@@ -1,3 +1,4 @@
-test\aei.sql
-test\ind.sql
-test\mai.ts
+test/aei.sql/
+test/ind.sql/
+test/mai.ts/
+sqltools_20201116185559_7336.log/

@@ -3,6 +3,8 @@ SELECT * FROM dbo.Estudiantes
 
 TRUNCATE TABLE dbo.Estudiantes
 
+
+
 UPDATE dbo.Estudiantes
 set IDMunicipio = null
 WHERE(Matricula LIKE '2013-0125')
